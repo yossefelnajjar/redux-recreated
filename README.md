@@ -1,6 +1,6 @@
 # redux-recreated
 
-![Redux-Inspired Solution](.\src\images\redux-gif.gif)
+![Redux-Clone](.\src\images\reduxGif.gif)
 
 ## Introduction
 
