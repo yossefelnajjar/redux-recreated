@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to our Redux-clone state management solution! This repository offers a powerful Recreation of Redux, providing essential features for efficient state management in modern web applications. Built using the **Revealed Module Design Pattern**, this solution encapsulates core functionalities that are central to state management.
+Welcome to our Redux-clone state management solution! This repository offers a powerful Recreation of Redux, providing essential features for efficient state management in modern web applications. Built using the **Revealing Module Design Pattern**, this solution encapsulates core functionalities that are central to state management.
 
 ## Key Features
 
